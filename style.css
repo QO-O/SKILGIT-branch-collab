@@ -11,6 +11,7 @@ body {
 }
 
 header {
+    font-family: "Comic Sans MS", cursive, sans-serif;
     background-color: #81948a;
     color: white;
     padding: 2rem;
@@ -37,7 +38,7 @@ footer {
 }
 
 section {
-    background: white;
+    background: rgb(0, 255, 217);
     padding: 2rem;
     border-radius: 0.8rem;
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
