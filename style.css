@@ -1,39 +1,44 @@
+html{
+    font-size: 62.5%;
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana;
     margin: 0;
     padding: 0;
     background-color: #f7f7f7;
+    font-size: 2rem;
 }
 
 header {
-    background-color: #333;
+    background-color: #81948a;
     color: white;
-    padding: 20px;
+    padding: 2rem;
     text-align: center;
 }
 
 nav a {
     color: white;
-    margin: 0 15px;
+    margin: 1.5rem;
     text-decoration: none;
     font-weight: bold;
 }
 
 main {
-    padding: 20px;
+    padding: 2rem;
 }
 
 footer {
-    background-color: #333;
+    background-color: #81948a;
     color: white;
     text-align: center;
-    padding: 10px;
-    margin-top: 30px;
+    padding: 1rem;
+    margin-top: 3rem;
 }
 
 section {
     background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
 }
